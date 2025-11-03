@@ -20,6 +20,17 @@ This repo showcases my Tableau dashboards and analysis projects.
 - Python *(basic analytics)*  
 - Excel  
 
+## 👽 UFO Sightings in the U.S.
+**Tool:** Tableau  
+**Data Source:** Kaggle UFO Sightings Dataset  
+**Summary:** Visualized over 2,800 reported UFO encounters across the U.S. to identify regional and temporal trends.  
+**Key Findings:**  
+- 🌎 Total of **2,860 sightings** reported nationwide  
+- 🥇 Top 3 states with the most sightings: **California, Texas, and Florida**  
+- 📅 **January** and **March** had the **longest average encounter durations**  
+- ⏰ Most active hour: **22:00 (10 PM)**  
+
+**View it here:** [Tableau Public Link]([your-link-here](https://public.tableau.com/views/UFOSightingsUSA_17472489413020/Dashboard4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 ---
 
 *(More projects coming soon!)*
