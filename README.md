@@ -35,7 +35,7 @@ This repo showcases my Tableau dashboards and analysis projects.
 - 📈 Despite a gradual increase in female representation among top earners, the **overall pay gap remains substantial.**  
 - 🧮 Visualization highlights the earnings distribution and trends by gender, year, and role prominence.
 
-**View it here:** [Tableau Public Link](https://public.tableau.com/views/TheHollywoodGenderPayGap/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**View it here:**  [Tableau Public Link](https://public.tableau.com/views/TheHollywoodGenderPayGap/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ---
 
 ### 🛠️ Tools I Use
