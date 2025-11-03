@@ -12,14 +12,6 @@ This repo showcases my Tableau dashboards and analysis projects.
 **View it here:** [Tableau Public Link](https://public.tableau.com/views/IntelDataCenterProject/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 > 💾 Note: GitHub can’t preview large Tableau files. Click “Download” above to open it in Tableau Desktop.
 
----
-
-### 🛠️ Tools I Use
-- Tableau  
-- SQL *(learning in progress!)*  
-- Python *(basic analytics)*  
-- Excel  
-
 ## 👽 UFO Sightings in the U.S.
 **Tool:** Tableau  
 **Data Source:** Kaggle UFO Sightings Dataset  
@@ -31,6 +23,16 @@ This repo showcases my Tableau dashboards and analysis projects.
 - ⏰ Most active hour: **22:00 (10 PM)**  
 
 **View it here:** [Tableau Public Link]([your-link-here](https://public.tableau.com/views/UFOSightingsUSA_17472489413020/Dashboard4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+> 💾 Note: GitHub can’t preview large Tableau files. Click “Download” above to open it in Tableau Desktop.
+---
+
+### 🛠️ Tools I Use
+- Tableau  
+- SQL *(learning in progress!)*  
+- Python *(basic analytics)*  
+- Excel  
+
+
 ---
 
 *(More projects coming soon!)*
