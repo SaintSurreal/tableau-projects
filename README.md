@@ -10,6 +10,7 @@ This repo showcases my Tableau dashboards and analysis projects.
 **Data Source:** Regional Energy Sources Dataset  
 **Summary:** Analyzed energy production data across regions to determine the optimal placement for a new Intel Data Center.  
 **View it here:** [Tableau Public Link](https://public.tableau.com/views/IntelDataCenterProject/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+> 💾 Note: GitHub can’t preview large Tableau files. Click “Download” above to open it in Tableau Desktop.
 
 ---
 
