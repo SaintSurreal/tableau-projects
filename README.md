@@ -24,6 +24,18 @@ This repo showcases my Tableau dashboards and analysis projects.
 
 **View it here:** [Tableau Public Link](https://public.tableau.com/views/UFOSightingsUSA_17472489413020/Dashboard4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 > 💾 Note: GitHub can’t preview large Tableau files. Click “Download” above to open it in Tableau Desktop.
+
+## 🎬 Hollywood Gender Pay Gap Analysis
+**Tool:** Tableau  
+**Data Source:** Forbes – Actor & Actress Earnings Reports  
+**Summary:** Examined earnings data from top Hollywood actors and actresses to uncover disparities in pay and representation across genders.  
+**Key Findings:**  
+- 💰 Male actors consistently earned **significantly more** on average than female actors across all analyzed years.  
+- 🎥 The highest-paid actresses’ earnings trailed their male counterparts by **over 30%** in some cases.  
+- 📈 Despite a gradual increase in female representation among top earners, the **overall pay gap remains substantial.**  
+- 🧮 Visualization highlights the earnings distribution and trends by gender, year, and role prominence.
+
+**View it here:** [Tableau Public Link]([your-link-here](https://public.tableau.com/views/TheHollywoodGenderPayGap/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ---
 
 ### 🛠️ Tools I Use
